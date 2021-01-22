@@ -14,3 +14,5 @@ export default function cyclicRotation(A: number[], K: number) {
   }
   return tmp;
 }
+
+console.log(cyclicRotation([3, 8, 9, 7, 6], 3));
