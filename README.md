@@ -15,4 +15,4 @@ NOTE: All excercises are resolved in typescript (But codility don´t support it 
 
 TODO:
 
--It would be great to add tests with some testing library.
+- It would be great to add tests with some testing library.
