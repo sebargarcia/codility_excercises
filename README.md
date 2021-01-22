@@ -1,12 +1,17 @@
-# Simple typescript starter :rocket::rocket::rocket:
+# Codility excercises (https://app.codility.com/programmers/)
 
-**Just clone the repo, edit index.ts and run `npm start`**
+**Just clone the repo, each excercise has its own file.**
 
-or install the dependencies you want and start coding :sunglasses:
+don´t forget to do npm install before :sunglasses:
 
-What includes:
+The excercises included are:
 
-- Typescript. :heavy_check_mark:
-- tsconfig.json file preconfigured. :heavy_check_mark:
-- ts-watch configured in npm start script. :heavy_check_mark:
-- RenovateBot to mantain up to date dependencies :heavy_check_mark:
+- BinaryGap: Find longest sequence of zeros in binary representation of an integer. (score: 100%)
+- CyclicRotation: Rotate an array to the right by a given number of steps. (score: 87%)
+- coin game (This is a private exam excerciser, not working at all, I have to re implement it) (score: 22%)
+
+WARNING: This is how I resolve the excercies, maybe there are not the best way to resolve it but I want to document my progress. Maybe later I will update them to be more performant or more beatufull xD.
+NOTE: All excercises are resolved in typescript (But codility don´t support it yet). I will be updating excercises when I have resolved.
+
+TODO:
+-It would be great to add tests with some testing library.
