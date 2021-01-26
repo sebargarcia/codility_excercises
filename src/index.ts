@@ -1,3 +1,3 @@
-import cyclicRotation from "./cyclic_rotation";
+import oddOcurrencesInArray from "./odd_ocurrences_in_array";
 
-console.log(cyclicRotation([3, 8, 9, 7, 6], 3));
+oddOcurrencesInArray();
