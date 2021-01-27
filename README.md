@@ -6,9 +6,11 @@ don´t forget to do npm install before :sunglasses:
 
 The excercises included are:
 
-- BinaryGap: Find longest sequence of zeros in binary representation of an integer. (score: 100%)
-- CyclicRotation: Rotate an array to the right by a given number of steps. (score: 87%)
-- Odd Ocurrences in array: Find value that occurs in odd number of elements. (score: 100%)
+- Lesson 1 Iterations, BinaryGap: Find longest sequence of zeros in binary representation of an integer. (score: 100%)
+- Lesson 2 Arrays, CyclicRotation: Rotate an array to the right by a given number of steps. (score: 87%)
+- Lesson 2 Arrays, Odd Ocurrences in array: Find value that occurs in odd number of elements. (score: 100%)
+- Lesson 3 Time complexity, Frog Jump: Count minimal number of jumps from position X to Y. (score: 100%)
+
 - Coin Game (This is a private exam excercise, not working at all, I have to re implement it) (score: 22%)
 
 WARNING: This is how I resolve the excercises, maybe there are not the best way to resolve it but I want to document my progress. Maybe later I will update them to be more performant or more beatufull xD.
