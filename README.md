@@ -10,6 +10,7 @@ The excercises included are:
 - Lesson 2 Arrays, CyclicRotation: Rotate an array to the right by a given number of steps. (score: 87%)
 - Lesson 2 Arrays, Odd Ocurrences in array: Find value that occurs in odd number of elements. (score: 100%)
 - Lesson 3 Time complexity, Frog Jump: Count minimal number of jumps from position X to Y. (score: 100%)
+- Lesson 3 Time complexity, PerMissingElem: Find the missing element in a given permutation. (score: 60%)
 
 - Coin Game (This is a private exam excercise, not working at all, I have to re implement it) (score: 22%)
 

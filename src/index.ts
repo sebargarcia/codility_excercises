@@ -1,2 +1,3 @@
-import frogJump from "./frog_jump";
-frogJump();
+import permMissingElem from "./perm_missing_element";
+
+permMissingElem();
