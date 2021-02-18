@@ -1,3 +1,3 @@
-import permMissingElem from "./perm_missing_element";
+import salesByMatch from "./hackerrank/sales_by_match";
 
-permMissingElem();
+salesByMatch();
